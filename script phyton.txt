@@ -1,0 +1,42 @@
+pip install auto-py-to-exe            code visual
+
+python -m pip install auto-py-to-exe
+
+python -m auto_py_to_exe  -----------------------certo cmd
+
+
+auto-py-to-exe           code visual
+
+
+896dc7fffc815496d9e132ac82f5c7dc
+
+
+
+
+
+
+
+
+
+auto-py-to-exe
+
+auto-py-to-exe
+
+
+auto_py_to_exe
+
+
+python -m auto_py_to_exe  -----------------------certo cmd
+
+pip install pycairo
+pip install PyGObject
+pip install --upgrade pip setuptools wheel
+
+
+
+pyinstaller  --onefile 
+
+
+
+
+C:\Users\Fabrine\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\usb\backend\libusb0.py)
